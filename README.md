@@ -46,7 +46,7 @@
 
 <h3>Installation and Setup</h3>
 <p>Clone the repository:</p>
-<pre>git clone https://github.com/gudkovlab/ppg-finder.git</pre>
+<pre>git clone https://github.com/gudkovlab/ppgfinder.git</pre>
 <p><strong>Dependencies</strong>:</p>
 <ul>
     <li>Python (3.x+)</li>
