@@ -46,13 +46,13 @@
 
 <h3>Installation and Setup</h3>
 <p>Clone the repository:</p>
-<pre>git clone https://github.com/yourusername/ppg-finder.git</pre>
+<pre>git clone https://github.com/gudkovlab/ppg-finder.git</pre>
 <p><strong>Dependencies</strong>:</p>
 <ul>
     <li>Python (3.x+)</li>
     <li>pandas</li>
-    <li>Samtools (required for <code>junction_library_generation.py</code>)</li>
-    <li>BLAST+ tools (required for <code>genome_hits_generation.sh</code>)</li>
+    <li><a href="https://www.htslib.org/">Samtools</a> (required for <code>junction_library_generation.py</code>)</li>
+    <li><a href="https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html">BLAST+ tools</a> (required for <code>genome_hits_generation.sh</code>)</li>
 </ul>
 <p><strong>Setting Up</strong>:</p>
 <ul>
